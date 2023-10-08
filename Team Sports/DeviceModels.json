@@ -176,6 +176,43 @@
       "model":"iPhone 13"
    },
    {
+      "identifier":"iPhone14,6",
+      "model":"iPhone SE 3rd Gen"
+   },
+   {
+      "identifier":"iPhone14,7",
+      "model":"iPhone 14"
+   },
+   {
+      "identifier":"iPhone14,8",
+      "model":"iPhone 14 Plus"
+   },
+   {
+      "identifier":"iPhone15,2",
+      "model":"iPhone 14 Pro"
+   },
+   {
+      "identifier":"iPhone15,3",
+      "model":"iPhone 14 Pro Max"
+   },
+   {
+      "identifier":"iPhone15,4",
+      "model":"iPhone 15"
+   },
+   {
+      "identifier":"iPhone15,5",
+      "model":"iPhone 15 Plus"
+   },
+   {
+      "identifier":"iPhone16,1",
+      "model":"iPhone 15 Pro"
+   },
+   {
+      "identifier":"iPhone16,2",
+      "model":"iPhone 15 Pro Max"
+   },
+   
+   {
       "identifier":"iPod1,1",
       "model":"1st Gen iPod"
    },
